@@ -11,7 +11,7 @@ import { React } from '../pages/React';
 import { HomeTestingHistory } from '../components/Home/HomeTestingHistory/HomeTestingHistory';
 
 const App = () => {
-  const [isLogin] = useState(false);
+  const [isLogin] = useState(true);
   const [status, setAction] = useState(null);
   return isLogin ? (
     <div>
