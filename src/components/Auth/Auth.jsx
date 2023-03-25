@@ -19,11 +19,11 @@ export const Auth = () => {
   return (
     <Container>
       <FormWrapper />
-      <CloudAnime1 src={cloud_1} />
-      <CloudAnime2 src={cloud_3} />
-      <CloudAnime3 src={Ukraine} />
-      <CloudAnime5 src={cloud_4} />
-      <CloudAnime4 src={cloud_4} />
+      <CloudAnime1 src={cloud_1} alt="photo" />
+      <CloudAnime2 src={cloud_3} alt="photo" />
+      <CloudAnime3 src={Ukraine} alt="photo" />
+      <CloudAnime5 src={cloud_4} alt="photo" />
+      <CloudAnime4 src={cloud_4} alt="photo" />
       <Div />
       <Block />
     </Container>

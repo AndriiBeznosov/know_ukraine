@@ -11,7 +11,6 @@ export const Container = styled.div`
 
 export const CloudAnime1 = styled.img`
   position: absolute;
-
   animation-name: changeCloud1;
   animation-duration: 10000ms;
   animation-fill-mode: forwards;
