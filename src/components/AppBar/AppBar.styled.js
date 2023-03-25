@@ -27,7 +27,7 @@ export const Nav = styled.nav`
   letter-spacing: 0.05em;
   opacity: 0;
 
-  &a:not(:last-child) {
+  a:not(:last-child) {
     margin-bottom: 20px;
   }
 
@@ -122,11 +122,11 @@ export const NavItem = styled(NavLink)`
   text-decoration: none;
   color: #212121;
   transition: color ${props => props.theme.transition};
-  /* &.active {
+  &.active {
     color: ${p => p.theme.color.red};
-  } */
-  &:hover:not(.active),
-  &:focus-visible:not(.active) {
+  }
+  :hover:not(.active),
+  :focus-visible:not(.active) {
     color: ${p => p.theme.color.f};
   }
 `;

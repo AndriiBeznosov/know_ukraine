@@ -113,12 +113,12 @@ export const Label = styled.label`
   font-weight: 900;
   color: ${props => props.theme.color.b};
   letter-spacing: 0.07em;
-  & svg {
+  svg {
     width: 15px;
     height: 15px;
     fill: ${props => props.theme.color.b};
   }
-  & button {
+  button {
     position: absolute;
     top: 31px;
     right: 11px;
@@ -129,12 +129,12 @@ export const Label = styled.label`
     cursor: pointer;
     transition: transform ${props => props.theme.transition};
 
-    &:hover,
-    &:focus {
+    :hover,
+    :focus {
       transform: scale(1.1);
     }
   }
-  & span {
+  span {
     position: absolute;
     top: 100%;
     right: 10px;
@@ -165,8 +165,8 @@ export const Button = styled.button`
   box-shadow: inset 0px 0px 11px 5px ${props => props.theme.color.a};
   transition: transform ${props => props.theme.transition};
 
-  &:hover,
-  &:focus {
+  :hover,
+  :focus {
     transform: scale(0.9);
   }
 `;
@@ -186,13 +186,13 @@ export const ButtomGoogle = styled.button`
   transition: transform ${props => props.theme.transition};
   margin-bottom: 20px;
 
-  & svg {
+  svg {
     width: 18px;
     height: 18px;
     margin-right: 10px;
   }
-  &:hover,
-  &:focus {
+  :hover,
+  :focus {
     transform: scale(0.9);
   }
 `;
@@ -202,7 +202,7 @@ export const Div = styled.div`
   display: flex;
   justify-content: space-between;
 
-  & button {
+  button {
     font-size: 10px;
     border: none;
     background-color: transparent;
@@ -212,12 +212,12 @@ export const Div = styled.div`
     color: ${props => props.theme.color.b};
     transition: transform ${props => props.theme.transition};
 
-    &:hover,
-    &:focus {
+    :hover,
+    :focus {
       transform: scale(1.1);
     }
   }
-  & svg {
+  svg {
     margin-right: 5px;
     fill: ${props => props.theme.color.b};
   }
