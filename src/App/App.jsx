@@ -8,11 +8,12 @@ import { NotFound } from '../pages/NotFound';
 import { HtmlCss } from '../pages/HtmlCss';
 import { JavaScript } from '../pages/JavaScript';
 import { React } from '../pages/React';
-import { HomeTestingHistory } from '../components/Home/HomeTestingHistory/HomeTestingHistory';
+import { Gallery } from '../pages/Gallery';
 
 const App = () => {
   const [isLogin] = useState(true);
   const [status, setAction] = useState(null);
+
   return isLogin ? (
     <div>
       <Routes>
@@ -20,7 +21,7 @@ const App = () => {
           path="/"
           element={<Layout status={status} setAction={setAction} />}
         >
-          <Route index element={<HomeTestingHistory status={status} />} />
+          <Route index element={<Gallery status={status} />} />
           <Route
             path="testing-history"
             element={<TestingHistory status={status} />}

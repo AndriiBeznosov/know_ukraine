@@ -3,7 +3,6 @@ import styled from 'styled-components';
 
 export const Wrapper = styled.div`
   position: relative;
-
   height: 100%;
   width: 100%;
   padding: 20px;
@@ -31,10 +30,12 @@ export const Nav = styled.nav`
     margin-bottom: 20px;
   }
 
-  ${p =>
-    p.status
+  ${p => {
+    if (p.status === null) return;
+    return p.status
       ? `animation-name:animationNavOpen; animation-delay: 400ms; `
-      : `animation-name:animationNav;`};
+      : `animation-name:animationNav;`;
+  }}
 
   animation-duration: 500ms;
   animation-timing-function: linear;
@@ -74,10 +75,13 @@ export const Title = styled.h2`
   letter-spacing: 0.1em;
   text-align: center;
   opacity: 0;
-  ${p =>
-    p.status
+
+  ${p => {
+    if (p.status === null) return;
+    return p.status
       ? `animation-name:animationTitleOpen; animation-delay: 400ms;`
-      : `animation-name:animationTitle;`};
+      : `animation-name:animationTitle;`;
+  }}
 
   animation-duration: 500ms;
   animation-timing-function: linear;

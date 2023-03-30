@@ -1,10 +1,10 @@
-import { Slider } from 'components/Home/HomeTestingHistory/Slider/Slider';
 import { HomeTestingHistory } from '../components/Home/HomeTestingHistory/HomeTestingHistory';
+import { Main } from '../components/Wrapper/Wrapper';
 
 export const TestingHistory = ({ status }) => {
   return (
-    <HomeTestingHistory status={status}>
-      <Slider />
-    </HomeTestingHistory>
+    <Main status={status}>
+      <HomeTestingHistory />
+    </Main>
   );
 };

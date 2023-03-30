@@ -1,8 +1,10 @@
 import styled from 'styled-components';
 
 export const Wrapper = styled.header`
+  overflow: hidden;
   height: 100vh;
   display: grid;
+  grid-template-columns: 70px 1fr;
   background: ${props => props.theme.color.a};
   background: linear-gradient(
     90deg,
@@ -11,10 +13,12 @@ export const Wrapper = styled.header`
     rgb(95, 167, 235) 66%,
     rgb(38, 80, 119) 100%
   );
-  ${p =>
-    p.status
+  ${p => {
+    if (p.status === null) return;
+    return p.status
       ? `grid-template-columns: 220px 1fr; animation-name: animationMenuOpen;`
-      : `grid-template-columns: 70px 1fr; animation-name: animationMenu;`}
+      : `grid-template-columns: 70px 1fr; animation-name: animationMenu;`;
+  }}
 
   animation-duration: 400ms;
   animation-timing-function: linear;

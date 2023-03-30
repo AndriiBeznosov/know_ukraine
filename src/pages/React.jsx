@@ -1,3 +1,5 @@
-export const React = () => {
-  return <div>React</div>;
+import { Main } from '../components/Wrapper/Wrapper';
+
+export const React = ({ status }) => {
+  return <Main status={status}>React</Main>;
 };

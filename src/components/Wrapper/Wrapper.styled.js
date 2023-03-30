@@ -1,6 +1,8 @@
+import { useRef } from 'react';
 import styled from 'styled-components';
 
 export const Wrapper = styled.main`
+  overflow-y: scroll;
   padding: 20px;
   background: ${props => props.theme.color.a};
   background: linear-gradient(
@@ -11,7 +13,20 @@ export const Wrapper = styled.main`
     ${props => props.theme.color.b} 100%
   );
 
-  ${p => (p.status ? ` animation-name: perspectiveMenuOpen;` : ` animation-name: perspectiveMenu;`)}
+  ${p => {
+    const prevProps = useRef(p.status);
+    if (prevProps.current === p.status && p.status) {
+      return `transform: perspective(99vh) rotateY(-30deg);`;
+    } else if (p.status === null) {
+      return;
+    } else if (p.status) {
+      return `animation-name: perspectiveMenuOpen;`;
+    } else {
+      prevProps.current = p.status;
+      return ` animation-name: perspectiveMenu;`;
+    }
+  }}
+
   animation-duration: 600ms;
   animation-timing-function: linear;
   animation-fill-mode: forwards;
