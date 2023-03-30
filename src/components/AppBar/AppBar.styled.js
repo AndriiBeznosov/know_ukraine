@@ -4,8 +4,8 @@ import styled from 'styled-components';
 export const Wrapper = styled.div`
   position: relative;
   height: 100%;
-  width: 100%;
-  padding: 20px;
+  padding: 20px 10px;
+  width: 60px;
   background: ${props => props.theme.color.a};
   background: linear-gradient(
     90deg,
@@ -14,6 +14,34 @@ export const Wrapper = styled.div`
     rgb(95, 167, 235) 66%,
     rgb(38, 80, 119) 100%
   );
+
+  ${p => {
+    if (p.status === null) return;
+    return p.status
+      ? `width: 240px; animation-name: animationMenuOpen;`
+      : `width: 60px; animation-name: animationMenu;`;
+  }}
+
+  animation-duration: 400ms;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+
+  @keyframes animationMenuOpen {
+    0% {
+      width: 60px;
+    }
+    100% {
+      width: 240px;
+    }
+  }
+  @keyframes animationMenu {
+    0% {
+      width: 240px;
+    }
+    100% {
+      width: 60px;
+    }
+  }
 `;
 
 export const Nav = styled.nav`
@@ -120,9 +148,8 @@ export const Title = styled.h2`
 `;
 
 export const NavItem = styled(NavLink)`
-  display: flex;
-  align-items: center;
   border-radius: 4px;
+  text-align: center;
   text-decoration: none;
   color: #212121;
   transition: color ${props => props.theme.transition};
@@ -138,7 +165,6 @@ export const NavItem = styled(NavLink)`
 export const Button = styled.button`
   position: absolute;
   top: 50%;
-
   width: 45px;
   height: 50px;
   background-color: transparent;

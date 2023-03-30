@@ -3,6 +3,7 @@ import styled from 'styled-components';
 
 export const Wrapper = styled.main`
   overflow-y: scroll;
+  width: 100%;
   padding: 20px;
   background: ${props => props.theme.color.a};
   background: linear-gradient(
@@ -16,7 +17,7 @@ export const Wrapper = styled.main`
   ${p => {
     const prevProps = useRef(p.status);
     if (prevProps.current === p.status && p.status) {
-      return `transform: perspective(99vh) rotateY(-30deg);`;
+      return `transform: perspective(99vh) rotateY(-20deg);`;
     } else if (p.status === null) {
       return;
     } else if (p.status) {
@@ -36,12 +37,12 @@ export const Wrapper = styled.main`
       transform: perspective(100vh) rotateY(0deg);
     }
     100% {
-      transform: perspective(99vh) rotateY(-30deg);
+      transform: perspective(99vh) rotateY(-20deg);
     }
   }
   @keyframes perspectiveMenu {
     0% {
-      transform: perspective(99vh) rotateY(-30deg);
+      transform: perspective(99vh) rotateY(-20deg);
     }
     100% {
       transform: perspective(100vh) rotateY(0deg);
