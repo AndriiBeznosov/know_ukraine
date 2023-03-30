@@ -121,7 +121,7 @@ export const Title = styled.h2`
       font-size: 8px;
     }
     90% {
-      transform: scale(1.05);
+      transform: scale(1.02);
     }
     100% {
       opacity: 1;
@@ -136,7 +136,7 @@ export const Title = styled.h2`
       font-size: 24px;
     }
     10% {
-      transform: scale(1.05);
+      transform: scale(1.02);
     }
     100% {
       opacity: 0;
