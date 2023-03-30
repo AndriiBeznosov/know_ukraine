@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
 export const Wrapper = styled.header`
+  will-change: grid-template-columns;
   overflow: hidden;
   height: 100vh;
   display: grid;
