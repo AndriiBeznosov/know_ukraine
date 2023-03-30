@@ -106,8 +106,8 @@ export const Title = styled.h2`
   ${p => {
     if (p.status === null) return;
     return p.status
-      ? `animation-name:animationTitleOpen; animation-delay: 400ms;`
-      : `animation-name:animationTitle;`;
+      ? `font-size: 8px; animation-name:animationTitleOpen; animation-delay: 400ms;`
+      : `font-size: 24px; animation-name:animationTitle;`;
   }}
 
   animation-duration: 500ms;
