@@ -98,7 +98,6 @@ export const Nav = styled.nav`
 export const Title = styled.h2`
   color: ${p => p.theme.color.white};
   margin-bottom: 20px;
-
   font-weight: 900;
   letter-spacing: 0.1em;
   text-align: center;
@@ -127,14 +126,14 @@ export const Title = styled.h2`
     100% {
       opacity: 1;
       transform: scale(1);
-      font-size: 28px;
+      font-size: 24px;
     }
   }
   @keyframes animationTitle {
     0% {
       opacity: 1;
       transform: scale(1);
-      font-size: 28px;
+      font-size: 24px;
     }
     10% {
       transform: scale(1.05);
