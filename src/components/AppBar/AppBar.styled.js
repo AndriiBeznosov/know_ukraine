@@ -120,9 +120,7 @@ export const Title = styled.h2`
       transform: scale(0.5);
       font-size: 8px;
     }
-    90% {
-      transform: scale(1.02);
-    }
+
     100% {
       opacity: 1;
       transform: scale(1);
@@ -135,9 +133,7 @@ export const Title = styled.h2`
       transform: scale(1);
       font-size: 24px;
     }
-    10% {
-      transform: scale(1.02);
-    }
+
     100% {
       opacity: 0;
       transform: scale(0.5);
