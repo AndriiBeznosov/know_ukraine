@@ -1,0 +1,1034 @@
+[
+  {
+    "id": "question-1",
+    "question": "Яка подія вважається початком української державності?",
+    "answers": [
+      { "answer": "Утворення Київської Русі", "status": true },
+      { "answer": "Битва на Ігуменці", "status": false },
+      {
+        "answer": "Запровадження християнства Київською Руссю",
+        "status": false
+      },
+      { "answer": "Утворення Запорозької Січі", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-2",
+    "question": "Яка подія призвела до утворення УНР?",
+    "answers": [
+      { "answer": "Революція 1917 року в Росії", "status": true },
+      { "answer": "Підписання Брестського миру", "status": false },
+      { "answer": "Початок Першої світової війни", "status": false },
+      { "answer": "Розпад Австро-Угорської імперії", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-3",
+    "question": "Що було наслідком подій на Майдані в 2014 році?",
+    "answers": [
+      { "answer": "Зміна влади в Україні", "status": true },
+      { "answer": "Приєднання Криму до Росії", "status": false },
+      { "answer": "Розгортання війни на сході України", "status": false },
+      { "answer": "Відновлення демократії в Україні", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-4",
+    "question": "Що таке Холодна війна?",
+    "answers": [
+      { "answer": "Геополітичний конфлікт між США та СРСР", "status": true },
+      { "answer": "Війна між Заходом та Сходом", "status": false },
+      { "answer": "Період невідомості в історії", "status": false },
+      { "answer": "Початок Другої світової війни", "status": false }
+    ]
+  },
+  {
+    "id": "question-5",
+    "question": "Хто був першим гетьманом України?",
+    "answers": [
+      { "answer": "Богдан Хмельницький", "status": true },
+      { "answer": "Іван Мазепа", "status": false },
+      { "answer": "Петро Дорошенко", "status": false },
+      { "answer": "Іван Сірко", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-6",
+    "question": "Як називалась операція, за якою Крим став частиною Росії?",
+    "answers": [
+      { "answer": "Операція 'Анексія'", "status": true },
+      { "answer": "Операція 'Окупація'", "status": false },
+      { "answer": "Операція 'Захоплення'", "status": false },
+      { "answer": "Операція 'Звільнення'", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-7",
+    "question": "Хто очолював УНР після затвердження Акту Злуки?",
+    "answers": [
+      { "answer": "Михайло Грушевський", "status": true },
+      { "answer": "Павло Скоропадський", "status": false },
+      { "answer": "Симон Петлюра", "status": false },
+      { "answer": "Степан Бандера", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-8",
+    "question": "Коли було проведено Перший З'їзд Народних Депутатів України?",
+    "answers": [
+      { "answer": "1990 рік", "status": true },
+      { "answer": "1991 рік", "status": false },
+      { "answer": "1992 рік", "status": false },
+      { "answer": "1993 рік", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-9",
+    "question": "Що було причиною Голодомору 1932-1933 років?",
+    "answers": [
+      {
+        "answer": "Політика колективізації та конфіскації зерна",
+        "status": true
+      },
+      { "answer": "Природні катаклізми", "status": false },
+      { "answer": "Війна з Польщею", "status": false },
+      { "answer": "Пандемія хвороби", "status": false }
+    ]
+  },
+  {
+    "id": "question-10",
+    "question": "Хто був першим президентом незалежної України?",
+    "answers": [
+      { "answer": "Леонід Кравчук", "status": true },
+      { "answer": "Леонід Кучма", "status": false },
+      { "answer": "Віктор Ющенко", "status": false },
+      { "answer": "Петро Порошенко", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-11",
+    "question": "Коли стався Євромайдан?",
+    "answers": [
+      {
+        "answer": "з листопада 2013 року до лютигої 2014 року",
+        "status": true
+      },
+      { "answer": "з березня 2014 року до червня 2014 року", "status": false },
+      { "answer": "з вересня 2014 року до грудня 2014 року", "status": false },
+      { "answer": "з грудня 2014 року до квітня 2015 року", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-12",
+    "question": "Хто був головою Верховної Ради України на час Оранжевої революції?",
+    "answers": [
+      { "answer": "Володимир Литвин", "status": true },
+      { "answer": "Анатолій Гриценко", "status": false },
+      { "answer": "Петро Порошенко", "status": false },
+      { "answer": "Арсеній Яценюк", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-13",
+    "question": "Яке рішення було ухвалене на Першому з'їзді Народних Депутатів України?",
+    "answers": [
+      { "answer": "Проголошення незалежності України", "status": true },
+      { "answer": "Приєднання до Росії", "status": false },
+      { "answer": "Створення федерації з Росією", "status": false },
+      { "answer": "Відновлення унітарного устрою УРСР", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-14",
+    "question": "Хто був автором Граматики української мови?",
+    "answers": [
+      { "answer": "Павло Загребельний", "status": true },
+      { "answer": "Михайло Грушевський", "status": false },
+      { "answer": "Леся Українка", "status": false },
+      { "answer": "Іван Франко", "status": false }
+    ]
+  },
+  {
+    "id": "question-15",
+    "question": "Коли відбувся Руїна?",
+    "answers": [
+      { "answer": "1654 рік", "status": true },
+      { "answer": "1648 рік", "status": false },
+      { "answer": "1660 рік", "status": false },
+      { "answer": "1676 рік", "status": false }
+    ]
+  },
+  {
+    "id": "question-16",
+    "question": "Хто очолював повстання Коліївщини?",
+    "answers": [
+      { "answer": "Максим Залізняк", "status": false },
+      { "answer": "Іван Гонта", "status": true },
+      { "answer": "Павло Полуботок", "status": false },
+      { "answer": "Іван Мазепа", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-17",
+    "question": "Які території України були окуповані нацистською Німеччиною?",
+    "answers": [
+      { "answer": "Західну Україну", "status": true },
+      { "answer": "Східну Україну", "status": false },
+      { "answer": "Південну Україну", "status": false },
+      { "answer": "Північну Україну", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-18",
+    "question": "Хто заснував ОУН?",
+    "answers": [
+      { "answer": "Степан Бандера", "status": true },
+      { "answer": "Роман Шухевич", "status": false },
+      { "answer": "Іван Липа", "status": false },
+      { "answer": "Ярослав Стецько", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-19",
+    "question": "Коли була проголошена незалежність України?",
+    "answers": [
+      { "answer": "24 серпня 1991 року", "status": true },
+      { "answer": "1 грудня 1991 року", "status": false },
+      { "answer": "7 липня 1991 року", "status": false },
+      { "answer": "22 серпня 1991 року", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-20",
+    "question": "Які народи оселились на території сучасної України в V-VII століттях?",
+    "answers": [
+      { "answer": "Слов'яни", "status": true },
+      { "answer": "Кочівники", "status": false },
+      { "answer": "Візантійці", "status": false },
+      { "answer": "Хазари", "status": false }
+    ]
+  },
+  {
+    "id": "question-21",
+    "question": "Коли була заснована Київська Русь?",
+    "answers": [
+      { "answer": "IX століття", "status": true },
+      { "answer": "VIII століття", "status": false },
+      { "answer": "X століття", "status": false },
+      { "answer": "XI століття", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-22",
+    "question": "Що таке «Золота Орда»?",
+    "answers": [
+      {
+        "answer": "Держава, яку створили монголи на території Русі",
+        "status": true
+      },
+      { "answer": "Інша назва Київської Русі", "status": false },
+      {
+        "answer": "Держава, яку створили поляки на території України",
+        "status": false
+      },
+      { "answer": "Інша назва Козацької держави", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-23",
+    "question": "Хто був першим королем Польщі?",
+    "answers": [
+      { "answer": "Михайло I", "status": false },
+      { "answer": "Владислав I Локеток", "status": true },
+      { "answer": "Казимир III", "status": false },
+      { "answer": "Ян II Казімеж", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-24",
+    "question": "Що таке «Коліївщина»?",
+    "answers": [
+      {
+        "answer": "Національно-визвольне повстання українського народу в 1768-1769 роках",
+        "status": true
+      },
+      {
+        "answer": "Козацький рух в другій половині XVII століття",
+        "status": false
+      },
+      {
+        "answer": "Національно-визвольний рух українців у другій половині XIX століття",
+        "status": false
+      },
+      {
+        "answer": "Повстання проти польської влади у Правобережній Україні в 1768 році",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": "question-25",
+    "question": "Що таке «УНР»?",
+    "answers": [
+      { "answer": "Українська Народна Республіка", "status": true },
+      { "answer": "Українська Незалежна Республіка", "status": false },
+      { "answer": "Українська Народна Революція", "status": false },
+      { "answer": "Українська Народна Рада", "status": false }
+    ]
+  },
+
+  {
+    "question": "Який акт був прийнятий Верховною Радою УНР в 1918 році?",
+    "answers": [
+      { "answer": "Акт про відновлення незалежності України", "status": true },
+      { "answer": "Акт про створення Збройних Сил УНР", "status": false },
+      { "answer": "Акт про націоналізацію промисловості", "status": false },
+      {
+        "answer": "Акт про створення університетів у кожному регіоні України",
+        "status": false
+      }
+    ]
+  },
+
+  {
+    "id": "question-26",
+    "question": "Який президент був обраний в Україні в 1991 році?",
+    "answers": [
+      { "answer": "Леонід Кравчук", "status": true },
+      { "answer": "Віктор Янукович", "status": false },
+      { "answer": "Віктор Ющенко", "status": false },
+      { "answer": "Петро Порошенко", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-27",
+    "question": "Яке міжнародне визнання отримала Україна в 1991 році?",
+    "answers": [
+      { "answer": "Членство в ООН", "status": true },
+      { "answer": "Членство в НАТО", "status": false },
+      { "answer": "Членство в ЄС", "status": false },
+      { "answer": "Членство в СНД", "status": false }
+    ]
+  },
+  {
+    "id": "question-28",
+    "question": "Який президент був обраний в Україні в 2004 році?",
+    "answers": [
+      { "answer": "Віктор Янукович", "status": false },
+      { "answer": "Віктор Ющенко", "status": true },
+      { "answer": "Петро Порошенко", "status": false },
+      { "answer": "Арсеній Яценюк", "status": false }
+    ]
+  },
+  {
+    "id": "question-29",
+    "question": "Яка подія спричинила Майдан у 2004 році?",
+    "answers": [
+      { "answer": "Виборча фальсифікація", "status": true },
+      { "answer": "Підняття тарифів на газ", "status": false },
+      { "answer": "Економічна криза", "status": false },
+      { "answer": "Скасування української мови як державної", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-30",
+    "question": "Що таке «Революція Гідності»?",
+    "answers": [
+      {
+        "answer": "Масові протести, що відбулися в Україні у 2013-2014 роках",
+        "status": true
+      },
+      { "answer": "Серія вибухів у місті Донецьку", "status": false },
+      { "answer": "Окупація Криму Росією", "status": false },
+      { "answer": "Війна на Донбасі", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-31",
+    "question": "Який президент був обраний в Україні в 2014 році?",
+    "answers": [
+      { "answer": "Петро Порошенко", "status": true },
+      { "answer": "Арсеній Яценюк", "status": false },
+      { "answer": "Віктор Янукович", "status": false },
+      { "answer": "Володимир Зеленський", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-32",
+    "question": "Який закон був прийнятий Верховною Радою в 2019 році?",
+    "answers": [
+      { "answer": "Закон про введення мовних квот", "status": false },
+      {
+        "answer": "Закон про реінтеграцію окупованого Донбасу",
+        "status": true
+      },
+      {
+        "answer": "Закон про заборону пропаганди гомосексуалізму",
+        "status": false
+      },
+      {
+        "answer": "Закон про заборону виїзду громадян України за кордон",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": "question-33",
+    "question": "Яке військове конфлікт з Росією розпочалося в 2014 році?",
+    "answers": [
+      { "answer": "Війна на Донбасі", "status": true },
+      { "answer": "Конфлікт на кордоні з Румунією", "status": false },
+      { "answer": "Конфлікт на кордоні з Угорщиною", "status": false },
+      { "answer": "Конфлікт на кордоні з Білоруссю", "status": false }
+    ]
+  },
+  {
+    "id": "question-34",
+    "question": "Коли було проголошено незалежність України?",
+    "answers": [
+      { "answer": "24 серпня 1991 року", "status": true },
+      { "answer": "1 грудня 1991 року", "status": false },
+      { "answer": "30 грудня 1991 року", "status": false },
+      { "answer": "7 липня 1991 року", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-35",
+    "question": "Хто став першим президентом незалежної України?",
+    "answers": [
+      { "answer": "Леонід Кравчук", "status": true },
+      { "answer": "Віктор Янукович", "status": false },
+      { "answer": "Леонід Кучма", "status": false },
+      { "answer": "Петро Порошенко", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-36",
+    "question": "Хто став першим прем'єр-міністром незалежної України?",
+    "answers": [
+      { "answer": "Віталій Масол", "status": true },
+      { "answer": "Анатолій Кінах", "status": false },
+      { "answer": "Павло Лазаренко", "status": false },
+      { "answer": "Юлія Тимошенко", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-37",
+    "question": "Які кольори має національний прапор України?",
+    "answers": [
+      { "answer": "Синій та жовтий", "status": true },
+      { "answer": "Червоний та чорний", "status": false },
+      { "answer": "Блакитний та білий", "status": false },
+      { "answer": "Зелений та жовтий", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-38",
+    "question": "Який день відзначається у Україні 24 серпня?",
+    "answers": [
+      { "answer": "День незалежності України", "status": true },
+      { "answer": "День Конституції України", "status": false },
+      { "answer": "День захисника України", "status": false },
+      { "answer": "День праці", "status": false }
+    ]
+  },
+  {
+    "id": "question-39",
+    "question": "Як називається головний міст України?",
+    "answers": [
+      { "answer": "Київ", "status": true },
+      { "answer": "Харків", "status": false },
+      { "answer": "Львів", "status": false },
+      { "answer": "Одеса", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-40",
+    "question": "Коли відзначається День Конституції України?",
+    "answers": [
+      { "answer": "28 червня", "status": true },
+      { "answer": "24 серпня", "status": false },
+      { "answer": "1 вересня", "status": false },
+      { "answer": "14 жовтня", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-41",
+    "question": "Хто був гетьманом за часів Руїни?",
+    "answers": [
+      { "answer": "Іван Мазепа", "status": false },
+      { "answer": "Пилип Орлик", "status": true },
+      { "answer": "Павло Скоропадський", "status": false },
+      { "answer": "Іван Виговський", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-42",
+    "question": "Коли відбулася Конституційна революція в Україні?",
+    "answers": [
+      { "answer": "1996 року", "status": true },
+      { "answer": "2004 року", "status": false },
+      { "answer": "2014 року", "status": false },
+      { "answer": "2019 року", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-43",
+    "question": "Хто очолював ОУН?",
+    "answers": [
+      { "answer": "Степан Бандера", "status": true },
+      { "answer": "Роман Шухевич", "status": false },
+      { "answer": "Юрій Липа", "status": false },
+      { "answer": "Іван Мазепа", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-44",
+    "question": "Який закон про мову був прийнятий у 2019 році?",
+    "answers": [
+      {
+        "answer": "Закон 'Про забезпечення функціонування української мови як державної'",
+        "status": true
+      },
+      { "answer": "Закон 'Про мови в Україні'", "status": false },
+      {
+        "answer": "Закон 'Про зміни в мовній політиці України'",
+        "status": false
+      },
+      {
+        "answer": "Закон 'Про регулювання використання мов у сфері культури'",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": "question-45",
+    "question": "Який подією завершилася Українська революція 1917-1921 років?",
+    "answers": [
+      { "answer": "укладення Польсько-Української угоди", "status": false },
+      { "answer": "укладення Будапештського договору", "status": false },
+      { "answer": "укладення Ризького договору", "status": true },
+      { "answer": "укладення Тріанонського договору", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-46",
+    "question": "Коли було ухвалено Закон 'Про очищення влади'",
+    "answers": [
+      { "answer": "2014 року", "status": false },
+      { "answer": "2015 року", "status": false },
+      { "answer": "2016 року", "status": false },
+      { "answer": "2019 року", "status": true }
+    ]
+  },
+
+  {
+    "id": "question-47",
+    "question": "Хто заснував Київську Русь?",
+    "answers": [
+      { "answer": "Олег", "status": true },
+      { "answer": "Ігор", "status": false },
+      { "answer": "Рюрик", "status": false },
+      { "answer": "Святослав", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-48",
+    "question": "Який закон про освіту був ухвалений у 2017 році?",
+    "answers": [
+      { "answer": "Закон 'Про вищу освіту'", "status": false },
+      { "answer": "Закон 'Про загальну середню освіту'", "status": false },
+      { "answer": "Закон 'Про освіту'", "status": true },
+      { "answer": "Закон 'Про дошкільну освіту'", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-49",
+    "question": "Коли відбулася Бориспільська конференція ОУН?",
+    "answers": [
+      { "answer": "1941 року", "status": true },
+      { "answer": "1942 року", "status": false },
+      { "answer": "1943 року", "status": false },
+      { "answer": "1944 року", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-50",
+    "question": "Яка подія відбулася 22 січня 1918 року в Україні?",
+    "answers": [
+      {
+        "answer": "проголошення Союзу Центрально-Українських Рад",
+        "status": false
+      },
+      {
+        "answer": "визнання Української Народної Республіки країною",
+        "status": true
+      },
+      { "answer": "укладення Брест-Литовського миру", "status": false },
+      { "answer": "укладення Брест-Литовського договору", "status": false }
+    ]
+  },
+  {
+    "id": "question-51",
+    "question": "Хто був визнаний Гетьманом Української Народної Республіки в 1918 році?",
+    "answers": [
+      { "answer": "Павло Скоропадський", "status": true },
+      { "answer": "Володимир Винниченко", "status": false },
+      { "answer": "Михайло Грушевський", "status": false },
+      { "answer": "Симон Петлюра", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-52",
+    "question": "Яка подія стала приводом для створення Української Держави в 1918 році?",
+    "answers": [
+      { "answer": "Паризький мирний договір", "status": false },
+      { "answer": "Брест-Литовський мирний договір", "status": false },
+      { "answer": "Російська революція", "status": true },
+      { "answer": "Розгром Української Народної Республіки", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-53",
+    "question": "Коли створено УНР?",
+    "answers": [
+      { "answer": "1917 року", "status": true },
+      { "answer": "1918 року", "status": false },
+      { "answer": "1919 року", "status": false },
+      { "answer": "1920 року", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-54",
+    "question": "Як називається пам'ятник, встановлений на місці вбивства Георгія Гонгадзе?",
+    "answers": [
+      { "answer": "Стіна пам'яті", "status": false },
+      { "answer": "Стіна скорботи", "status": false },
+      { "answer": "Стіна гідності", "status": true },
+      { "answer": "Стіна правди", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-55",
+    "question": "Який документ був підписаний на Віденському конгресі 1815року?",
+    "answers": [
+      { "answer": "Акт про розподіл Польщі", "status": false },
+      { "answer": "Акт про утворення Німеччини", "status": false },
+      {
+        "answer": "Акт про утворення Австро-Угорської імперії",
+        "status": false
+      },
+      { "answer": "Акт про новий політичний устрій Європи", "status": true }
+    ]
+  },
+
+  {
+    "id": "question-56",
+    "question": "Коли проведено Гадяцький конгрес?",
+    "answers": [
+      { "answer": "1768 року", "status": true },
+      { "answer": "1769 року", "status": false },
+      { "answer": "1770 року", "status": false },
+      { "answer": "1771 року", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-57",
+    "question": "Що таке Ірпінська республіка?",
+    "answers": [
+      {
+        "answer": "Короткочасна держава, що існувала під час Російської революції 1917-1918 років",
+        "status": true
+      },
+      {
+        "answer": "Культурний рух, що поширився в Україні в кінці XIX - початку XX століття",
+        "status": false
+      },
+      {
+        "answer": "Історична територія на півночі України, що існувала до XVIII століття",
+        "status": false
+      },
+      { "answer": "Район у місті Ірпінь", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-58",
+    "question": "Хто був головним ідеологом і лідером українського націоналістичного руху в 1930-1940-х роках?",
+    "answers": [
+      { "answer": "Степан Бандера", "status": true },
+      { "answer": "Роман Шухевич", "status": false },
+      { "answer": "Андрій Мельник", "status": false },
+      { "answer": "Ярослав Степанюк", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-59",
+    "question": "Яка подія стала кульмінацією Революції гідності?",
+    "answers": [
+      { "answer": "Проголошення Незалежності України", "status": false },
+      { "answer": "Призначення нового Президента України", "status": false },
+      { "answer": "Ухвалення Конституції України", "status": false },
+      { "answer": "Зняття з посади Віктора Януковича", "status": true }
+    ]
+  },
+  {
+    "id": "question-60",
+    "question": "Коли була створена Організація українських націоналістів (ОУН)?",
+    "answers": [
+      { "answer": "1929 рік", "status": true },
+      { "answer": "1918 рік", "status": false },
+      { "answer": "1939 рік", "status": false },
+      { "answer": "1945 рік", "status": false }
+    ]
+  },
+  {
+    "id": "question-61",
+    "question": "Як називалась держава, яка була оголошена на західній Україні під час Другої світової війни?",
+    "answers": [
+      { "answer": "Українська Народна Республіка", "status": false },
+      { "answer": "Гетьманат", "status": false },
+      { "answer": "Українська Держава", "status": true },
+      { "answer": "Західноукраїнська Народна Республіка", "status": false }
+    ]
+  },
+  {
+    "id": "question-62",
+    "question": "Коли була створена Союз Українських Правозахисників (СУП)?",
+    "answers": [
+      { "answer": "1968 рік", "status": false },
+      { "answer": "1978 рік", "status": true },
+      { "answer": "1988 рік", "status": false },
+      { "answer": "1998 рік", "status": false }
+    ]
+  },
+  {
+    "id": "question-63",
+    "question": "Яку назву мала організація Степана Бандери на початку 1940-х років?",
+    "answers": [
+      { "answer": "Організація українських націоналістів", "status": true },
+      { "answer": "Українська повстанська армія", "status": false },
+      { "answer": "Українська головна визвольна рада", "status": false },
+      { "answer": "Українська революційна партія", "status": false }
+    ]
+  },
+  {
+    "id": "question-64",
+    "question": "Коли була проголошена незалежність України?",
+    "answers": [
+      { "answer": "24 серпня 1991 року", "status": true },
+      { "answer": "1 грудня 1991 року", "status": false },
+      { "answer": "22 серпня 1991 року", "status": false },
+      { "answer": "19 липня 1991 року", "status": false }
+    ]
+  },
+  {
+    "id": "question-65",
+    "question": "Хто став першим президентом незалежної України?",
+    "answers": [
+      { "answer": "Леонід Кравчук", "status": true },
+      { "answer": "Віктор Ющенко", "status": false },
+      { "answer": "Петро Порошенко", "status": false },
+      { "answer": "Віктор Янукович", "status": false }
+    ]
+  },
+  {
+    "id": "question-66",
+    "question": "Який документ закріплює права та свободи людини та громадянина в Україні?",
+    "answers": [
+      { "answer": "Конституція України", "status": true },
+      {
+        "answer": "Декларація про державний суверенітет України",
+        "status": false
+      },
+      { "answer": "Декларація про незалежність України", "status": false },
+      {
+        "answer": "Угода про створення Союзу Радянських Соціалістичних Республік",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": "question-67",
+    "question": "Який вірус став причиною пандемії, що почалася у 2020 році?",
+    "answers": [
+      { "answer": "Коронавірус COVID-19", "status": true },
+      { "answer": "Європейський грип", "status": false },
+      { "answer": "Свинячий грип", "status": false },
+      { "answer": "Іспанський грип", "status": false }
+    ]
+  },
+  {
+    "id": "question-68",
+    "question": "Що таке Хмельниччина?",
+    "answers": [
+      {
+        "answer": "період визвольних змагань українського народу під проводом Богдана Хмельницького",
+        "status": true
+      },
+      {
+        "answer": "епоха в історії України, що настала після відновлення незалежності в 1991 році",
+        "status": false
+      },
+      {
+        "answer": "розгортання культурно-освітнього руху в Україні наприкінці 19-го століття",
+        "status": false
+      },
+      {
+        "answer": "назва провінції українських земель за часів Київської Русі",
+        "status": false
+      }
+    ]
+  },
+  {
+    "id": "question-69",
+    "question": "Хто був автором гімну України?",
+    "answers": [
+      { "answer": "Микола Лисенко", "status": false },
+      { "answer": "Павло Чубинський", "status": false },
+      { "answer": "Михайло Вербицький", "status": true },
+      { "answer": "Леся Українка", "status": false }
+    ]
+  },
+  {
+    "id": "question-70",
+    "question": "Який режим був встановлений в Україні після перемоги Революції гідності?",
+    "answers": [
+      { "answer": "парламентська республіка", "status": true },
+      { "answer": "диктаторський режим", "status": false },
+      { "answer": "комуналістичний режим", "status": false },
+      { "answer": "фашистський режим", "status": false }
+    ]
+  },
+  {
+    "id": "question-71",
+    "question": "Хто заснував Києво-Могилянську академію?",
+    "answers": [
+      { "answer": "Петро Могила", "status": true },
+      { "answer": "Іван Федоров", "status": false },
+      { "answer": "Олександр Барвінський", "status": false },
+      { "answer": "Дмитро Туптало", "status": false }
+    ]
+  },
+  {
+    "id": "question-72",
+    "question": "Хто з гетьманів найкоротше перебував при владі?",
+    "answers": [
+      { "answer": "Іван Мазепа", "status": false },
+      { "answer": "Пилип Орлик", "status": false },
+      { "answer": "Данило Апостол", "status": true },
+      { "answer": "Михайло Дорошенко", "status": false }
+    ]
+  },
+  {
+    "id": "question-73",
+    "question": "Який український поет написав твір «Катерина»?",
+    "answers": [
+      { "answer": "Тарас Шевченко", "status": false },
+      { "answer": "Іван Котляревський", "status": true },
+      { "answer": "Леся Українка", "status": false },
+      { "answer": "Микола Вороний", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-74",
+    "question": "Яка подія в Україні сталася 26 апреля 1986 року?",
+    "answers": [
+      {
+        "answer": "захоплення будівлі Львівської обласної ради",
+        "status": false
+      },
+      { "answer": "аварія на Чорнобильській АЕС", "status": true },
+      { "answer": "проголошення незалежності України", "status": false },
+      {
+        "answer": "розстріл студентів на майдані Незалежності",
+        "status": false
+      }
+    ]
+  },
+
+  {
+    "id": "question-75",
+    "question": "Хто очолював УНР на момент її провозголошення в 1918 році?",
+    "answers": [
+      { "answer": "Симон Петлюра", "status": true },
+      { "answer": "Павло Скоропадський", "status": false },
+      { "answer": "Михайло Грушевський", "status": false },
+      { "answer": "Андрій Макаренко", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-76",
+    "question": "Ким був В'ячеслав Чорновіл?",
+    "answers": [
+      { "answer": "українським поетом", "status": false },
+      { "answer": "українським політиком", "status": true },
+      { "answer": "українським істориком", "status": false },
+      { "answer": "українським співаком", "status": false }
+    ]
+  },
+
+  {
+    "id": "question-77",
+    "question": "Коли відбулася битва під Крутами?",
+    "answers": [
+      { "answer": "1918 року", "status": true },
+      { "answer": "1941 року", "status": false },
+      { "answer": "1943 року", "status": false },
+      { "answer": "1919 року", "status": false }
+    ]
+  },
+  {
+    "id": "question-78",
+    "question": "Хто очолював Україну під час Революції гідності?",
+    "answers": [
+      { "answer": "Віктор Янукович", "status": false },
+      { "answer": "Арсеній Яценюк", "status": false },
+      { "answer": "Петро Порошенко", "status": false },
+      { "answer": "Олександр Турчинов", "status": true }
+    ]
+  },
+  {
+    "id": "question-79",
+    "question": "Який український князь заснував Львів?",
+    "answers": [
+      { "answer": "Роман Мстиславович", "status": false },
+      { "answer": "Данило Романович", "status": true },
+      { "answer": "Юрій ІІ Всеволодович", "status": false },
+      { "answer": "Лев I Данилович", "status": false }
+    ]
+  },
+  {
+    "id": "question-80",
+    "question": "Хто став першим президентом Незалежної України?",
+    "answers": [
+      { "answer": "Леонід Кравчук", "status": true },
+      { "answer": "Леонід Кучма", "status": false },
+      { "answer": "Віктор Янукович", "status": false },
+      { "answer": "Петро Порошенко", "status": false }
+    ]
+  },
+  {
+    "id": "question-81",
+    "question": "Який козацький гетьман провів реформу, що зменшила роль великого ладу в Україні?",
+    "answers": [
+      { "answer": "Іван Мазепа", "status": true },
+      { "answer": "Петро Дорошенко", "status": false },
+      { "answer": "Богдан Хмельницький", "status": false },
+      { "answer": "Павло Скоропадський", "status": false }
+    ]
+  },
+  {
+    "id": "question-82",
+    "question": "Хто очолював український національний рух після смерті Степана Бандери?",
+    "answers": [
+      { "answer": "Іван Гайдай", "status": false },
+      { "answer": "Роман Шухевич", "status": false },
+      { "answer": "Юрій Шухевич", "status": true },
+      { "answer": "Андрій Мельник", "status": false }
+    ]
+  },
+  {
+    "id": "question-83",
+    "question": "Хто очолював український національний рух після смерті Степана Бандери?",
+    "answers": [
+      { "answer": "Іван Гайдай", "status": false },
+      { "answer": "Роман Шухевич", "status": false },
+      { "answer": "Юрій Шухевич", "status": true },
+      { "answer": "Андрій Мельник", "status": false }
+    ]
+  },
+  {
+    "id": "question-84",
+    "question": "Коли було проголошено незалежність України?",
+    "answers": [
+      { "answer": "24 серпня 1991 року", "status": true },
+      { "answer": "22 січня 1919 року", "status": false },
+      { "answer": "30 червня 1941 року", "status": false },
+      { "answer": "28 червня 1914 року", "status": false }
+    ]
+  },
+  {
+    "id": "question-85",
+    "question": "Який рік увійшов до історії як 'Рік визволення України'",
+    "answers": [
+      { "answer": "1919", "status": true },
+      { "answer": "1917", "status": false },
+      { "answer": "1945", "status": false },
+      { "answer": "1991", "status": false }
+    ]
+  },
+  {
+    "id": "question-86",
+    "question": "Хто очолював українську дипломатію у часи незалежності України?",
+    "answers": [
+      { "answer": "Борис Тарасюк", "status": true },
+      { "answer": "Леонід Кравчук", "status": false },
+      { "answer": "Віктор Ющенко", "status": false },
+      { "answer": "Петро Порошенко", "status": false }
+    ]
+  },
+  {
+    "id": "question-87",
+    "question": "Коли була прийнята Конституція України?",
+    "answers": [
+      { "answer": "28 червня 1996 року", "status": true },
+      { "answer": "22 листопада 1918 року", "status": false },
+      { "answer": "30 грудня 1922 року", "status": false },
+      { "answer": "22 серпня 1991 року", "status": false }
+    ]
+  },
+  {
+    "id": "question-88",
+    "question": "Хто був першим Президентом України?",
+    "answers": [
+      { "answer": "Леонід Кравчук", "status": true },
+      { "answer": "Віктор Янукович", "status": false },
+      { "answer": "Віктор Ющенко", "status": false },
+      { "answer": "Петро Порошенко", "status": false }
+    ]
+  }
+]

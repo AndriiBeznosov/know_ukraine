@@ -16,6 +16,7 @@ export const Wrapper = styled.main`
 
   ${p => {
     const prevProps = useRef(p.status);
+
     if (prevProps.current === p.status && p.status) {
       return `transform: perspective(99vh) rotateY(-20deg);`;
     } else if (p.status === null) {
